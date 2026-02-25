@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+extract.py
+notebook_extracted.py
+notebook_extracted2.py
+notebook.py
+.DS_Store
